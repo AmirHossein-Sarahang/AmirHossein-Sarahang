@@ -1,5 +1,4 @@
-- 👋 Hi, I’m AmirHossein-Sarahang/n
-I'm a 4th year Computer Engineering student at Amirkabir University of Technology.
+- 👋 Hi, I’m AmirHossein-Sarahang
 
 
 <!---
