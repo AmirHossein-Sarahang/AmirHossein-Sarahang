@@ -1,5 +1,5 @@
-- 👋 Hi, I’m AmirHossein-Sarahang
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
+- Hi, 
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m AmirHossein-Sarahang!
 
 
 <!---
