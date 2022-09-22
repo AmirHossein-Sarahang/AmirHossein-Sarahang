@@ -1,5 +1,5 @@
 - Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">   I’m AmirHossein-Sarahang!
--I'm Computer Engineering student at Amirkabir University of Technology.:computer:
+- I'm Computer Engineering student at Amirkabir University of Technology.:computer:
 
 
 
