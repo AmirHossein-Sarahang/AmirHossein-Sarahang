@@ -9,9 +9,8 @@
 <h3>My programming skills : </h3>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.arduino.cc/"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.mysql.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="50" height="40" style="max-width: 100%;"> </a>
+
 
