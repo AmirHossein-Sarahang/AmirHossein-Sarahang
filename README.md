@@ -11,5 +11,5 @@
 <a href="https://www.arduino.cc/"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="40" style="max-width: 100%;"> </a>
-
+<a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="40" style="max-width: 100%;"> </a>
 
