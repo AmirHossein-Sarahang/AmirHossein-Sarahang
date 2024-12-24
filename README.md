@@ -4,9 +4,9 @@
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components, JavaScript, and TypeScript code! 🧑‍💻☕</p>
 
 <h4>Contact me:</h4>
-<a href="https://www.linkedin.com/in/AmirhosseinSarahang/" style="display:inline-block; margin-right:10px;">
+<a href="https://www.linkedin.com/in/AmirhosseinSarahang/" style="display:inline-block; margin-right:20px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:amirsarahng@gmail.com" style="display:inline-block; margin-left:10px;">
+<a href="mailto:amirsarahng@gmail.com" style="display:inline-block; margin-left:20px;">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
