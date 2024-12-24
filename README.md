@@ -4,11 +4,7 @@
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components, JavaScript, and TypeScript code! 🧑‍💻☕</p>
 
 <h4>Contact me:</h4>
-<div style="display: flex; gap: 15px;">
-    <a href="https://www.linkedin.com/in/AmirhosseinSarahang/" style="display:inline-block;">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:amirsarahng@gmail.com" style="display:inline-block;">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+<div style="display: flex; gap: 15px; cursor: pointer;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" onclick="window.location.href='https://www.linkedin.com/in/AmirhosseinSarahang/'"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" onclick="window.location.href='mailto:amirsarahng@gmail.com'"/>
 </div>
