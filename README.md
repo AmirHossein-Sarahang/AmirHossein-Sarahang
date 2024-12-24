@@ -5,6 +5,6 @@
 
 <h4>Contact me:</h4>
 <div style="display: flex; gap: 15px; cursor: pointer;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" onclick="window.location.href='https://www.linkedin.com/in/AmirhosseinSarahang/'"/>
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" onclick="window.location.href='mailto:amirsarahng@gmail.com'"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" onclick="location.href='https://www.linkedin.com/in/AmirhosseinSarahang/'"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" onclick="location.href='mailto:amirsarahng@gmail.com'"/>
 </div>
