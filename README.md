@@ -3,8 +3,8 @@
 <p><em>I have B.Sc. in Computer Engineering from <a href="https://aut.ac.ir/" target="_blank" rel="noopener noreferrer">Amirkabir University of Technology</a> </em> 💻 🎓</p>
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components, JavaScript, and TypeScript code! 🧑‍💻☕</p>
 
-<p>Contact me:</p>
 <div style="display: flex; align-items: center; gap: 10px;">
+  <p>Contact me:</p>
   <a href="https://www.linkedin.com/in/amirhosseinsarahang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
