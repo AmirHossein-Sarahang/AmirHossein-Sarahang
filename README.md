@@ -1,5 +1,6 @@
 <h2>Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m AmirHossein!</h2>
-<p><em>I'm B.Sc Student of <a href="https://ce.aut.ac.ir/">Computer Engineering</a> at <strong><a href="https://aut.ac.ir/index.php?sid=1&slc_lang=fa">Amirkabir University of Technology</a></strong></em>:computer::mortar_board:</p>
+<p><em>I'm a Computer Engineering graduate from <a href="https://ce.aut.ac.ir/">Amirkabir University of Technology</a> <strong><a href="https://aut.ac.ir/index.php?sid=1&slc_lang=fa">(AUT)</a></strong></em>:computer::mortar_board:</p>
+<p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components and TypeScript code! :coffee:</p>
 <hr>
 
 <h3>My programming skills : </h3>
@@ -9,4 +10,6 @@
 <a href="https://www.w3schools.com/html/"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="40" style="max-width: 100%;"> </a>
-
+<a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.typescriptlang.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.coffee.com"> <img src="https://cdn-icons-png.flaticon.com/512/590/590836.png" alt="coffee" width="50" height="40" style="max-width: 100%;"> </a>
