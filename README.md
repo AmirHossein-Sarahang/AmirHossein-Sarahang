@@ -1,8 +1,3 @@
-<h2>
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+AmirHossein....;Nice+to+meet+you!&center=true&size=30&color=06C19F">
-  </a>
-</h2>
 
 <h2>Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m AmirHossein!</h2>
 <p><em>I have B.Sc. in Computer Engineering from <a href="https://aut.ac.ir/" target="_blank" rel="noopener noreferrer">Amirkabir University of Technology</a> </em> 💻 🎓</p>
