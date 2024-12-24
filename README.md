@@ -1,5 +1,5 @@
 <h2>Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m AmirHossein!</h2>
-<p><em>I'm a Computer Engineering graduate from <a href="https://ce.aut.ac.ir/">Amirkabir University of Technology</a> <strong><a href="https://aut.ac.ir/index.php?sid=1&slc_lang=fa">(AUT)</a></strong></em>:computer::mortar_board:</p>
+<p><em>I have a B.Sc. in Computer Engineering from <a href="https://ce.aut.ac.ir/">Amirkabir University of Technology</a> <strong><a href="https://aut.ac.ir/index.php?sid=1&slc_lang=fa">(AUT)</a></strong></em>:computer::mortar_board:</p>
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components, JavaScript, and TypeScript code! :coffee:</p>
 <hr>
 
