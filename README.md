@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/AmirhosseinSarahang/" style="display:inline-block; margin-right:10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<br/>
 <a href="mailto:amirsarahng@gmail.com" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
