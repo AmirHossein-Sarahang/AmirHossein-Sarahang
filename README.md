@@ -4,7 +4,7 @@
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components, JavaScript, and TypeScript code! 🧑‍💻☕</p>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <p>Contact me:</p>
+  <h4>Contact me:</h4>
   <a href="https://www.linkedin.com/in/amirhosseinsarahang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
