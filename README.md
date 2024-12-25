@@ -7,3 +7,4 @@
 <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/linkedin.svg"></a></code>
 <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/instagram.svg"></a></code>
 <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/gmail.svg"></a></code>
+<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/telegram.svg"></a></code>
