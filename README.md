@@ -3,7 +3,8 @@
 <p><em>I have B.Sc. in Computer Engineering from <a href="https://aut.ac.ir/" target="_blank" rel="noopener noreferrer">Amirkabir University of Technology</a> </em> 💻 🎓</p>
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components! 🧑‍💻☕</p>
 
-<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="21" src="./Images/linkedin.svg">Linkdin</a></code>
-<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/instagram.svg">Instagram</a></code>
-<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/gmail.svg">Gmail</a></code>
-<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/telegram.svg">Telegram</a></code>
+<p>Socials</p>
+<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="21" src="./Images/linkedin.svg"></a></code>
+<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/instagram.svg"></a></code>
+<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/gmail.svg"></a></code>
+<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/telegram.svg"></a></code>
