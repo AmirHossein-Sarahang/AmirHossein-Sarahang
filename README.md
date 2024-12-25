@@ -39,4 +39,6 @@
 <code><img title="github" height="30" src="Images/github.svg"></code>
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=pooooriya&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
