@@ -12,7 +12,7 @@
       </a>
     </td>
     <td>
-      <a href="https://instagram.com" title="Instagram Profile">
+      <a href="https://www.instagram.com/amirsarahng/profilecard/?igsh=MWtocjN3d3JkdDhjdg==" title="Instagram Profile">
         <img width="22" src="./Images/instagram.svg">
       </a>
     </td>
