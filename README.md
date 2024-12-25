@@ -17,12 +17,12 @@
       </a>
     </td>
     <td>
-      <a href="mailto:example@gmail.com" title="Email">
+      <a href="mailto:amirsarahng@gmail.com" title="Email">
         <img width="22" src="./Images/gmail.svg">
       </a>
     </td>
     <td>
-      <a href="https://t.me/username" title="Telegram">
+      <a href="https://t.me/amirsarahng" title="Telegram">
         <img width="22" src="./Images/telegram.svg">
       </a>
     </td>
