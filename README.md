@@ -4,7 +4,7 @@
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components! 🧑‍💻☕</p>
 
 <p>Socials</p>
-<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="21" src="./Images/linkedin.svg"></a></code>
+<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="20" src="./Images/linkedin.svg"></a></code>
 <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/instagram.svg"></a></code>
 <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/gmail.svg"></a></code>
 <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/telegram.svg"></a></code>
