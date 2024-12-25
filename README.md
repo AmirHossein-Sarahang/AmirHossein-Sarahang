@@ -29,7 +29,11 @@
   </tr>
 </table>
 
+<code><img title="python" height="30" src="Images/python.svg"></code>
 <code><img title="html" height="30" src="Images/html5.svg"></code>
 <code><img title="css" height="30" src="Images/css.svg"></code>
 <code><img title="js" height="30" src="Images/javascript.svg"></code>
+<code><img title="ts" height="30" src="Images/javascript.svg"></code>
+<code><img title="react" height="30" src="Images/react-original.svg"></code>
+
 
