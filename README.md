@@ -29,5 +29,5 @@
   </tr>
 </table>
 
-<code><img title="html#" height="25" src="images/html5.svg"></code>
+<code><img title="html" height="25" src="Images/html5.svg"></code>
 
