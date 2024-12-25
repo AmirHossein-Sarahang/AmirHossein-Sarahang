@@ -4,11 +4,18 @@
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components! 🧑‍💻☕</p>
 
 
-<div>
-  <p>Socials</p>
-  <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/linkedin.svg"></a></code>
-  <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/instagram.svg"></a>        </code>
-  <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/gmail.svg"></a></code>
-  <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/telegram.svg"></a></code>
-
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile">
+    <img width="22" src="./Images/linkedin.svg">
+  </a>
+  <a href="https://instagram.com" title="Instagram Profile">
+    <img width="22" src="./Images/instagram.svg">
+  </a>
+  <a href="mailto:example@gmail.com" title="Email">
+    <img width="22" src="./Images/gmail.svg">
+  </a>
+  <a href="https://t.me/username" title="Telegram">
+    <img width="22" src="./Images/telegram.svg">
+  </a>
 </div>
+
