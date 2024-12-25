@@ -36,7 +36,7 @@
 <code><img title="ts" height="30" src="Images/typescript.svg"></code>
 <code><img title="react" height="30" src="Images/react-original.svg"></code>
 <code><img title="redux" height="30" src="Images/redux.svg"></code>
-<code><img title="github" height="30" src="Images/hithub.svg"></code>
+<code><img title="github" height="30" src="Images/github.svg"></code>
 
 
 
