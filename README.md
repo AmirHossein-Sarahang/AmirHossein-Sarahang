@@ -31,9 +31,12 @@
 
 <code><img title="python" height="30" src="Images/python-original.svg"></code>
 <code><img title="html" height="30" src="Images/html5.svg"></code>
-<code><img title="css" height="30" width="30" src="Images/css.svg"></code>
+<code><img title="css" height="30" src="Images/css.svg"></code>
 <code><img title="js" height="30" src="Images/javascript.svg"></code>
 <code><img title="ts" height="30" src="Images/typescript.svg"></code>
 <code><img title="react" height="30" src="Images/react-original.svg"></code>
+<code><img title="redux" height="30" src="Images/redux.svg"></code>
+<code><img title="github" height="30" src="Images/hithub.svg"></code>
+
 
 
