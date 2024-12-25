@@ -4,4 +4,4 @@
 <p>I’m passionate about <strong>Front-End Development</strong> and I turn coffee into React components! 🧑‍💻☕</p>
 
 
-<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.svg"></a></code>
+<a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile"><img width="22" src="./Images/linkedin.svg"></a></code>
