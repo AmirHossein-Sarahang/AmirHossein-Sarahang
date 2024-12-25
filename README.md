@@ -29,5 +29,7 @@
   </tr>
 </table>
 
-<code><img title="html" height="25" src="Images/html5.svg"></code>
+<code><img title="html" height="30" src="Images/html5.svg"></code>
+<code><img title="css" height="30" src="Images/css.svg"></code>
+<code><img title="js" height="30" src="Images/javascript.svg"></code>
 
