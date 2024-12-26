@@ -7,8 +7,9 @@
 <table>
   <tr>
     <td>
-      <code><img title="python" height="30" src="Images/python-original.svg"></code>
-    </td>
+        <a href="https://www.linkedin.com/in/amirhossein-sarahang-088260228/" title="Linkedin Profile">
+        <img width="22" src="./Images/linkedin">
+      </a>    </td>
     <td>
       <a href="https://www.instagram.com/amirsarahng/profilecard/?igsh=MWtocjN3d3JkdDhjdg==" title="Instagram Profile">
         <img width="22" src="./Images/instagram.svg">
