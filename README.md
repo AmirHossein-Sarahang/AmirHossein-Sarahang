@@ -7,9 +7,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://ir.linkedin.com/in/amirhossein-sarahang-088260228/" title="LinkedIn Profile">
-        <img width="22" src="./Images/linkedin.svg">
-      </a>
+      <code><img title="python" height="30" src="Images/python-original.svg"></code>
     </td>
     <td>
       <a href="https://www.instagram.com/amirsarahng/profilecard/?igsh=MWtocjN3d3JkdDhjdg==" title="Instagram Profile">
@@ -25,6 +23,23 @@
       <a href="https://t.me/amirsarahng" title="Telegram">
         <img width="22" src="./Images/telegram.svg">
       </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <code><img title="python" height="30" src="Images/python-original.svg"></code>
+    </td>
+    <td>
+      <code><img title="html" height="30" src="Images/html5.svg"></code>
+    </td>
+    <td>
+      <code><img title="css" height="30" src="Images/css.svg"></code>
+    </td>
+    <td>
+      <code><img title="js" height="30" src="Images/javascript.svg"></code>
     </td>
   </tr>
 </table>
